@@ -5,7 +5,7 @@ import unittest
 
 
 def add(n1, n2):
-    pass
+    return int(n1)+int(n2)
 
 
 # DO NOT TOUCH THE BELOW CODE
